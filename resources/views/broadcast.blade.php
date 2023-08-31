@@ -1,4 +1,4 @@
-<div class="rightMessage">
-    <img alt="Avatar">
+<div class="right message">
+    <img src="" alt="Avatar">
     <p>{{$message}}</p>
 </div>
